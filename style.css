@@ -1,0 +1,32 @@
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+#title{
+    font-family:'Courier New', Courier, monospace;
+    font: size 200px;;
+}
+#red_one, #red_one2{
+    color:red ;
+    font-family:'Courier New', Courier, monospace; 
+    font: size 150px;;
+}
+#change, #hello{
+    font-family:'Courier New', Courier, monospace; 
+    font: size 150px;;  
+}
+img:hover{
+    border-radius: 140px;
+}
+img{
+    border-radius: 4px;
+    padding:10px;
+    box-shadow: 0 6px 8px 0 gray;
+    width: 37%;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
